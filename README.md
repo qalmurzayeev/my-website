@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 Автор
 
-**Аты-жөнің**  
-[Instagram](https://instagram.com/senin_atti) • [GitHub](https://github.com/senin_atti)
+*Калмурзаев Қанат*  
+[Instagram](https://instagram.com/qalmurzayeev) • [GitHub](https://github.com/qalmurzayeev)
 
 ## 📄 Лицензия
 
